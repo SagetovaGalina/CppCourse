@@ -1,0 +1,32 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Галина/Dropbox/CppCourse/workshop.1/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:/CppDistro/MinGW/bin/mingw32-make.exe" "cmTC_e4ce0/fast"
+D:/CppDistro/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_e4ce0.dir\build.make CMakeFiles/cmTC_e4ce0.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/├рышэр/Dropbox/CppCourse/workshop.1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e4ce0.dir/testCCompiler.c.obj
+D:\CppDistro\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_e4ce0.dir\testCCompiler.c.obj   -c C:\Users\╨У╨░╨╗╨╕╨╜╨░\Dropbox\CppCourse\workshop.1\CMakeFiles\CMakeTmp\testCCompiler.c
+gcc.exe: error: C:\Users\╨У╨░╨╗╨╕╨╜╨░\Dropbox\CppCourse\workshop.1\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_e4ce0.dir\build.make:65: CMakeFiles/cmTC_e4ce0.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/├рышэр/Dropbox/CppCourse/workshop.1/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:125: cmTC_e4ce0/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Галина/Dropbox/CppCourse/workshop.1/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:/CppDistro/MinGW/bin/mingw32-make.exe" "cmTC_bdc5d/fast"
+D:/CppDistro/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_bdc5d.dir\build.make CMakeFiles/cmTC_bdc5d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/├рышэр/Dropbox/CppCourse/workshop.1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bdc5d.dir/testCCompiler.c.obj
+D:\CppDistro\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_bdc5d.dir\testCCompiler.c.obj   -c C:\Users\╨У╨░╨╗╨╕╨╜╨░\Dropbox\CppCourse\workshop.1\CMakeFiles\CMakeTmp\testCCompiler.c
+gcc.exe: error: C:\Users\╨У╨░╨╗╨╕╨╜╨░\Dropbox\CppCourse\workshop.1\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_bdc5d.dir\build.make:65: CMakeFiles/cmTC_bdc5d.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/├рышэр/Dropbox/CppCourse/workshop.1/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:125: cmTC_bdc5d/fast] Error 2
+
+
